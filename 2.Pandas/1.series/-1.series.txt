@@ -1,0 +1,5 @@
+A pandas series is a Key Valued paired data structure just like a python dictonaries
+
+A Pandas Series maintains the order of the data, as it is an ordered data structure.
+
+Technically a series is a pre defined class in pandas library
