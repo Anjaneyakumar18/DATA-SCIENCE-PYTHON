@@ -1,0 +1,6 @@
+
+Descriptive statistics encompasses methods used to describe and understand data,
+providing a clear summary of its main features. These methods help in organizing and
+presenting data effectively. Key techniques include:
+
+Measures of central tendency,measures of dispersion etc.. are part of Descriptive stats
