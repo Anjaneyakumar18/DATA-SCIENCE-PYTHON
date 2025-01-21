@@ -1,1 +1,4 @@
-.
+
+Statistics and probability are the soul of data science. Mathematical techniques are often used in data science, including plotting, linear algebra, statistics, and probability. Statistics are used to manage data, and data science is often referred to as a data-driven solution. Machine learning is a key aspect of data science, which is often termed statistical learning. This highlights the importance of statistics and probability in the field of data science.
+
+Probability is widely used in the field of AI, helping algorithms make informed decisions under uncertainty. It underpins techniques like Bayesian inference, which allows for updating beliefs based on new evidence. Additionally, probability models are crucial for understanding the behavior of complex systems and enhancing predictive analytics.
