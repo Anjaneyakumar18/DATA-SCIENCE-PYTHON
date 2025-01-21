@@ -1,0 +1,25 @@
+Univariate statistics typically focus on the study of one variable, providing insights into its distribution and characteristics. Key components include:
+
+Measures of Central Tendency:
+
+Mean: The average value of the data, calculated by summing all observations and dividing by the number of observations. It provides a measure of the center of the data distribution, reflecting the overall trend.
+Mode: The value that appears most frequently in the dataset. It helps identify the most common observation, which can be particularly useful in categorical data analysis.
+Median: The middle value when the data is sorted in ascending or descending order. It is especially useful for understanding the central tendency in skewed distributions, where it may provide a more accurate reflection of the data's center than the mean.
+Measures of Dispersion:
+
+Standard Deviation: This measures the average distance of each data point from the mean, indicating how spread out the data is. A low standard deviation means data points are close to the mean, while a high standard deviation indicates more variability in the data.
+Variance: The square of the standard deviation, representing the degree of spread in the data. It is useful for understanding the distribution's variability in a more mathematical sense, especially in statistical modeling.
+Interquartile Range (IQR): This measures the range within which the central 50% of the data points fall, calculated as the difference between the first (Q1) and third quartiles (Q3). It is particularly effective for identifying outliers and understanding the data's spread.
+Visualizations Used for Univariate Stats:
+
+Box Plots: These display the median, quartiles, and potential outliers in the data, providing a clear visual summary of the distribution. Box plots are effective for comparing distributions across different groups.
+Histograms: These show the frequency distribution of data points within specified intervals, allowing for a quick visual assessment of the data's shape and spread. They help identify patterns such as normality, skewness, or multimodality.
+Bivariate statistics examine the relationship between two variables, helping to understand how they interact with each other. Key components include:
+
+Covariance: This measures the degree to which two variables change together. A positive covariance indicates that as one variable increases, the other tends to increase, while a negative covariance indicates the opposite, providing insight into the direction of the relationship.
+Correlation: This quantifies the strength and direction of a linear relationship between two variables, ranging from -1 to 1. A correlation close to 1 indicates a strong positive relationship, while one close to -1 indicates a strong negative relationship. A correlation of 0 suggests no linear relationship, helping to assess the nature of the association.
+Linear Regression: This statistical method models the relationship between two variables by fitting a linear equation to the observed data. It allows for predictions of one variable based on the value of another, providing insights into trends, dependencies, and potential causal relationships.
+Visualizations for Bivariate Analysis: Bivariate statistics involve the study of relationships between two variables, and several plotting techniques can help visualize these relationships. Here are some common plotting methods used for bivariate analysis:
+
+Scatter Plots: A scatter plot displays points representing the values of two variables. It helps identify patterns, trends, and correlations. The distribution of points can indicate the nature of the relationship (positive, negative, or no correlation).
+Line Graphs: Line graphs can be used when one variable is continuous and the other represents time or a sequence. They show trends and changes over time, making it easier to see how one variable affects another.
